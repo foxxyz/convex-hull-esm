@@ -1,7 +1,7 @@
 convex-hull-esm
 ===============
 
-Modern ESM port of [Miko Lalysenko's](https://github.com/mikolalysenko) original [`convex-hull` package](https://github.com/mikolalysenko/convex-hull).
+Modern ESM port of [Mikola Lysenko's](https://github.com/mikolalysenko) original [`convex-hull` package](https://github.com/mikolalysenko/convex-hull).
 
 This port consolidates all the dependencies (and their sub-dependencies) into a one consolidated package, eliminating some dependencies that are not actually used by this package but still bundled.
 
@@ -26,7 +26,7 @@ const polytope = convexHull(points)
 Thanks
 ------
 
-Big thanks to [Miko Lalysenko's](https://github.com/mikolalysenko) for his work on the original package(s).
+Big thanks to [Mikola Lysenko's](https://github.com/mikolalysenko) for his work on the original package(s).
 
 License
 -------

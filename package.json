@@ -11,5 +11,27 @@
     "scripts": {
         "test": "node --test --experimental-test-coverage test/*.test.js",
         "lint": "eslint ."
+    },
+    "files": "*.js",
+    "keywords": [
+        "convex",
+        "hull",
+        "dimension",
+        "esm"
+    ],
+    "author": "Ivo Janssen <hello@ivo.la>",
+    "contributors": [
+        "Mikola Lysenko"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=22"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/foxxyz/convex-hull-esm.git"
+    },
+    "bugs": {
+        "url": "https://github.com/foxxyz/convex-hull-esm/issues"
     }
 }
