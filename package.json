@@ -23,13 +23,12 @@
     "contributors": [
         "Mikola Lysenko"
     ],
-    "license": "MIT",
     "engines": {
         "node": ">=22"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/foxxyz/convex-hull-esm.git"
+        "url": "git+https://github.com/foxxyz/convex-hull-esm.git"
     },
     "bugs": {
         "url": "https://github.com/foxxyz/convex-hull-esm/issues"
